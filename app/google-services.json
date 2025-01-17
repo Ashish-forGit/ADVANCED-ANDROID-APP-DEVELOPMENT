@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754220007486",
+    "project_id": "firbaseregisteration",
+    "storage_bucket": "firbaseregisteration.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754220007486:android:b785067bfd31477a7fd16f",
+        "android_client_info": {
+          "package_name": "com.example.firbaseregisteration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNOa_HNPsQ0LSJyLVlJqaICP6GC95BNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
